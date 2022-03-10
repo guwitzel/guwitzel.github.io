@@ -1,2 +1,2 @@
-# gwitzel.github.io
+# guwitzel.github.io
 My personal webpage
